@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロメオ（feat. ハコニワリリィ）",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-11T13:59:26.230864Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロメオ feat.ハコニワリリィ",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ロメオ_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
