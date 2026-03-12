@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "えるあーるセッション（feat. ハコニワリリィ）",
+  "base_track": "ロメオ（feat. ハコニワリリィ）",
   "base_artist": "MARUMOCHI from HoneyWorks",
-  "createdAt": "2026-03-11T14:12:51.075972Z",
+  "createdAt": "2026-03-12T02:20:34.205821Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "えるあーるセッション feat.ハコニワリリィ",
+      "title": "ロメオ feat.ハコニワリリィ",
       "artist": "MARUMOCHI from HoneyWorks",
       "has_synced": false,
-      "path": "select/pl_01_えるあーるセッション_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
+      "path": "select/pl_01_ロメオ_feat.ハコニワリリィ_MARUMOCHI_from_HoneyWorks.txt"
     }
   ]
 }
